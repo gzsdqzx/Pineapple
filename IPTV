@@ -1,8 +1,8 @@
 IPTV HONGKONG M3U8 - Markup 7.35 KB copy raw download print
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-http://livetv.dnsfor.me/channel.18.m3u8
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",TEST
+https://www.hkdtmb.com/embed/33
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
