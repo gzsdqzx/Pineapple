@@ -28,6 +28,14 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:0 tvg-logo="" tvg-name="有線直播台" group-title="Hong Kong",有線直播台
 https://api.leonardpark.dev/live/icable/110
 
+#EXTINF:0 tvg-logo="" tvg-name="澳視澳門" group-title="Macau",澳視澳門
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-name="Canal Macau" group-title="Macau",Canal Macau
+http://61.244.22.4/ch2/ch2.live/index.m3u8 
+#EXTINF:0 tvg-logo="" tvg-name="澳視Macau" group-title="Macau",澳視Macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+
+
 #EXTINF:0 tvg-logo="" tvg-name="CCTV5高清" group-title="China",CCTV5高清
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 
