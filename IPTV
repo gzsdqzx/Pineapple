@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",TEST
-https://www.hkdtmb.com/embed/81
+https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",TEST2
 https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
