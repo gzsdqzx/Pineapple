@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/300?cb=20210722080518" tvg-name="" group-title="香港",無線互動新聞台
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" tvg-name="" group-title="香港",無線互動新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="香港",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
