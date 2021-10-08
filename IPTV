@@ -8,9 +8,9 @@ http://livetv.dnsfor.me/channel.2.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/6954b67f-71f8-4a9a-bddf-8e74ab477768-removebg-preview-3.png" tvg-name="" group-title="Hong Kong",無線新聞台
+#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/bf6d1523-03e8-46ab-a4e5-1a0b8c642464_1.png" tvg-name="" group-title="Hong Kong",無線新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/6954b67f-71f8-4a9a-bddf-8e74ab477768-removebg-preview.png" tvg-name="" group-title="Hong Kong",無線財經資訊台
+#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/6954b67f-71f8-4a9a-bddf-8e74ab477768-removebg-preview-3.png" tvg-name="" group-title="Hong Kong",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/2560px-Now_News_logo.svg.png" tvg-name="Now新聞台" group-title="Hong Kong",Now新聞台
