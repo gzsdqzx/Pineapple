@@ -19,6 +19,5 @@ http://livetv.dnsfor.me/channel.4.m3u8
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-name="Now新聞台" group-title="China",CCTV5高清
-http://livetv.dnsfor.me/channel.17.m3u8
-
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 
