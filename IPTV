@@ -1,37 +1,18 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" tvg-name="" group-title="香港",無線互動新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
-
-#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" tvg-name="" group-title="香港",無線財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",RTHK31
+http://livetv.dnsfor.me/channel.1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",RTHK32
+http://livetv.dnsfor.me/channel.2.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" tvg-name="" group-title="香港",無線互動新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" tvg-name="" group-title="香港",無線財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:0 tvg-logo="https://ibb.co/jH4hJxxg" group-title="香港",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
-http://livetv.dnsfor.me/channel.2.m3u8
 
-
-#EXTINF:0 tvg-logo="" tvg-name="亞旅衛視" group-title="香港",亞旅衛視
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225144GK51.png" tvg-name="星空衛視" group-title="香港",星空衛視
-rtmp://58.200.131.2:1935/livetv/startv?checkedby:hlscat.com
-#EXTINF:0 tvg-logo="https://www.searchpng.com/wp-content/uploads/2019/02/Star-Sports-Logo-PNG-Image-1024x1024.png" tvg-name="" group-title="香港",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-
-#EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
-https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_hi_1080p.m3u8
-//#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
-//https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/42/香港卫视HKS.jpg" tvg-name="" group-title="香港",香港衛視HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
