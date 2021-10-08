@@ -18,6 +18,6 @@ http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:0 tvg-logo="https://ibb.co/jH4hJxxg" group-title="Hong Kong",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
-#EXTINF:0 tvg-logo="" tvg-name="Now新聞台" group-title="China",CCTV5高清
+#EXTINF:0 tvg-logo="" tvg-name="CCTV5高清" group-title="China",CCTV5高清
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 
