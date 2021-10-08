@@ -4,7 +4,7 @@ http://livetv.dnsfor.me/channel.1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" tvg-name="rthk32" group-title="Hong Kong",RTHK32
 http://livetv.dnsfor.me/channel.2.m3u8
 
-#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/HK_open_tv_logo-removebg-preview.png" tvg-name="香港開電視" group-title="Hong Kong",開電視
+#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/unnamed-removebg-preview_4.png" tvg-name="香港開電視" group-title="Hong Kong",開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
