@@ -8,7 +8,7 @@ http://livetv.dnsfor.me/channel.2.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" tvg-name="" group-title="Hong Kong",無線互動新聞台
+#EXTINF:0 tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/bf/bf6d1523-03e8-46ab-a4e5-1a0b8c642464.png" tvg-name="" group-title="Hong Kong",無線新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" tvg-name="" group-title="Hong Kong",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
