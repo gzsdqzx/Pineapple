@@ -7,8 +7,7 @@ http://livetv.dnsfor.me/channel.2.m3u8
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong",開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:0 tvg-logo="" tvg-name="無綫翡翠台" group-title="Hong Kong",無綫翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" tvg-name="" group-title="Hong Kong",無線互動新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" tvg-name="" group-title="Hong Kong",無線財經資訊台
@@ -16,9 +15,18 @@ http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-name="Now新聞台" group-title="Hong Kong",Now新聞台
 http://livetv.dnsfor.me/channel.4.m3u8
-
+#EXTINF:0 tvg-logo="" tvg-name="Now直播台" group-title="Hong Kong",Now直播台
+https://api.leonardpark.dev/live/now/331
 #EXTINF:0 tvg-logo="https://ibb.co/jH4hJxxg" group-title="Hong Kong",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
+
+
+#EXTINF:0 tvg-logo="" tvg-name="有線新聞台" group-title="Hong Kong",有線新聞台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:0 tvg-logo="" tvg-name="有線財經資訊台" group-title="Hong Kong",有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:0 tvg-logo="" tvg-name="有線直播台" group-title="Hong Kong",有線直播台
+https://api.leonardpark.dev/live/icable/110
 
 #EXTINF:0 tvg-logo="" tvg-name="CCTV5高清" group-title="China",CCTV5高清
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
