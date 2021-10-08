@@ -21,7 +21,7 @@ https://api.leonardpark.dev/live/now/331
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
-#EXTINF:0 tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/152.png" tvg-name="有線新聞台" group-title="Hong Kong",有線新聞台
+#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/152.png" tvg-name="有線新聞台" group-title="Hong Kong",有線新聞台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:0 tvg-logo="" tvg-name="有線財經資訊台" group-title="Hong Kong",有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
