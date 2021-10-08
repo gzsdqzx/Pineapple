@@ -26,3 +26,9 @@ http://4ah3h6bl.ottclub.xyz/iptv/B8642PGT3W8P2N/545/index.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-name="CBS News" group-title="United States",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:0 tvg-logo="" tvg-name="NHK World" group-title="Japan",NHK World
+https://ntv1.mov3.co/hls/ntv.m3u8
+
+#EXTINF:0 tvg-logo="" tvg-name="Arirang" group-title="Korea",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
