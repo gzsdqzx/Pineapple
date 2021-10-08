@@ -29,6 +29,11 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-name="NHK World" group-title="Japan",NHK World
 https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:0 tvg-logo="" tvg-name="Fuji TV" group-title="Japan",Fuji TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
 
+
+#EXTINF:0 tvg-logo="" tvg-name="SBS" group-title="Korea",SBS
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:0 tvg-logo="" tvg-name="Arirang" group-title="Korea",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
