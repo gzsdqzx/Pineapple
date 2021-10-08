@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" tvg-name="" group-title="香港",無線互動新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="香港",無線財經資訊台
+#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" tvg-name="" group-title="香港",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png" tvg-name="" group-title="香港",無線電視J1台
 https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
