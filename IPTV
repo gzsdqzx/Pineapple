@@ -8,24 +8,8 @@ http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
-http://livetv.dnsfor.me/channel.5.m3u8
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
-http://teslagram.com/live/channel_110.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
-http://livetv.dnsfor.me/channel.7.m3u8
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
-//http://pullstream-ucan.speedws.com/live/65a9327d633a25634b1db9eff823071e/playlist.m3u8
-//#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg" group-title="香港",有線603台
-//http://pullstream-ucan.speedws.com/live/d910706635c34f85df619019bf9ca089/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
-http://teslagram.com/live/channel_332.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
-http://teslagram.com/live/channel_331.m3u8
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="香港",NowSportsPRIME
+#EXTINF:0 tvg-logo="https://ibb.co/jH4hJxxg" group-title="香港",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31
