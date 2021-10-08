@@ -17,7 +17,7 @@ http://livetv.dnsfor.me/channel.11.m3u8
 http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/2560px-Now_Live_News_logo.svg.png" tvg-name="Now直播台" group-title="Hong Kong",Now直播台
 https://api.leonardpark.dev/live/now/331
-#EXTINF:0 tvg-logo="https://ibb.co/jH4hJxxg" group-title="Hong Kong",Now Sports Prime
+#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/ch630_425_305.png" group-title="Hong Kong",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
