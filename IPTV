@@ -21,3 +21,8 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:0 tvg-logo="" tvg-name="CCTV5高清" group-title="China",CCTV5高清
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 
+#EXTINF:0 tvg-logo="" tvg-name="BBC World News" group-title="United Kingdom",BBC World News
+http://4ah3h6bl.ottclub.xyz/iptv/B8642PGT3W8P2N/545/index.m3u8
+
+#EXTINF:0 tvg-logo="" tvg-name="CBS News" group-title="United States",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
