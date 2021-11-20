@@ -23,11 +23,11 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/152.png" tvg-name="有線新聞台" group-title="Hong Kong",有線新聞台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1633708922-1633795502-563fc52db3e5a56c783fea66d23760ee-8d98ab8711d31bb_9e0-03/freehd209.live/playlist.m3u8
+https://api.leonardpark.dev/live/icable/109
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/151.png" tvg-name="有線財經資訊台" group-title="Hong Kong",有線財經資訊台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1633709187-1633795767-12f2c08897ad5bcf8b813fdaa3c87017-8d98ab90ef053eb_9b1-03/freehd208.live/playlist.m3u8
+https://api.leonardpark.dev/live/icable/108
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/153.png" tvg-name="有線直播新聞台" group-title="Hong Kong",有線直播新聞台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1633713498-1633800078-055e29c3ae3e75d5bfbe61fea2797097-8d98ac31851ad97_6fd-03/Stream1/playlist.m3u8
+https://api.leonardpark.dev/live/icable/110
 
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/link1_new.png" tvg-name="澳視澳門" group-title="Macau",澳視澳門
 http://61.244.22.4/ch1/ch1.live/index.m3u8
