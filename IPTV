@@ -8,7 +8,7 @@ http://livetv.dnsfor.me/channel.2.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-name="" group-title="Hong Kong",無綫翡翠台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/bf6d1523-03e8-46ab-a4e5-1a0b8c642464_1.png" tvg-name="" group-title="Hong Kong",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/6954b67f-71f8-4a9a-bddf-8e74ab477768-removebg-preview-3.png" tvg-name="" group-title="Hong Kong",無綫財經資訊台
