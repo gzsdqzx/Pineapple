@@ -23,7 +23,7 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/152.png" tvg-name="有線新聞台" group-title="Hong Kong",有線新聞台
-https://api.leonardpark.dev/live/icable/109
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1637373608-1637460188-bd456c8804f4fa693ec7b5e57a180abb-8d9ac0cf44b94bd_8b8-03/Stream1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/151.png" tvg-name="有線財經資訊台" group-title="Hong Kong",有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/153.png" tvg-name="有線直播新聞台" group-title="Hong Kong",有線直播新聞台
