@@ -56,3 +56,5 @@ https://fujitv1.mov3.co/hls/fujitv.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:0 tvg-logo="" tvg-name="Arirang" group-title="Korea",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-name="연합뉴스" group-title="Korea",연합뉴스
+https://www.youtube.com/watch?v=0GN8t2u3flc
