@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/2560px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong",RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" tvg-name="rthk32" group-title="Hong Kong",RTHK32
-http://livetv.dnsfor.me/channel.2.m3u8
+https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/unnamed-removebg-preview_4.png" tvg-name="香港開電視" group-title="Hong Kong",開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+https://cdn.hkdtmb.com/hls/77/index.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-name="" group-title="Hong Kong",無綫翡翠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/bf6d1523-03e8-46ab-a4e5-1a0b8c642464_1.png" tvg-name="" group-title="Hong Kong",無綫新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
+https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/6954b67f-71f8-4a9a-bddf-8e74ab477768-removebg-preview-3.png" tvg-name="" group-title="Hong Kong",無綫財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
+https://cdn.hkdtmb.com/hls/85/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/2560px-Now_News_logo.svg.png" tvg-name="Now新聞台" group-title="Hong Kong",Now新聞台
-http://livetv.dnsfor.me/channel.4.m3u8
+http://ewcdnsite09.nowe.com/session/09-204a7f188fd0e9f6afc7670e3173c/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=639780638e2851467bbed69d21a30aa1_1646819009
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/2560px-Now_Live_News_logo.svg.png" tvg-name="Now直播台" group-title="Hong Kong",Now直播台
-https://api.leonardpark.dev/live/now/331
+http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/ch630_425_305.png" group-title="Hong Kong",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/152.png" tvg-name="有線新聞台" group-title="Hong Kong",有線新聞台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1637373608-1637460188-bd456c8804f4fa693ec7b5e57a180abb-8d9ac0cf44b94bd_8b8-03/Stream1/playlist.m3u8
+http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/151.png" tvg-name="有線財經資訊台" group-title="Hong Kong",有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/153.png" tvg-name="有線直播新聞台" group-title="Hong Kong",有線直播新聞台
